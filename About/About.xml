@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>LC Anomaly Backgrounds</name>
+  <author>DarthCY</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <!-- <url></url> -->
+  <packageId>DarthCY.LC.AnomalyBackgrounds</packageId>
+  <description>.</description>
+  <modDependencies>
+    <li>
+      <packageId>vanillaexpanded.backgrounds</packageId>
+      <displayName>Vanilla Backgrounds Expanded</displayName>
+      <downloadUrl>https://github.com/legodude17/VanillaBackgroundsExpanded</downloadUrl>
+      <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2775017012</steamWorkshopUrl>
+    </li>
+    <li>
+			<packageId>DarthCY.LC.AnomalyLibrary</packageId>
+			<displayName>LC Anomaly Library</displayName>
+			<downloadUrl>https://github.com/DarthCY-K/LC-Anomaly-Library/releases/latest</downloadUrl>
+		</li>
+  </modDependencies>
+  <loadAfter>
+    <li>vanillaexpanded.backgrounds</li>
+    <li>DarthCY.LC.AnomalyLibrary</li>
+  </loadAfter>
+</ModMetaData>
