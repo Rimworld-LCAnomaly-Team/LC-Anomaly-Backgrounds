@@ -5,9 +5,9 @@
   <supportedVersions>
     <li>1.5</li>
   </supportedVersions>
-  <!-- <url></url> -->
+  <url>https://github.com/Rimworld-LCAnomaly-Team/LC-Anomaly-Backgrounds</url>
   <packageId>DarthCY.LC.AnomalyBackgrounds</packageId>
-  <description>.</description>
+  <description>Add some backgrounds to the mainmenu.</description>
   <modDependencies>
     <li>
       <packageId>vanillaexpanded.backgrounds</packageId>
