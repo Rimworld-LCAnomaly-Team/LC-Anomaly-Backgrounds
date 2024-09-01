@@ -15,14 +15,14 @@
       <downloadUrl>https://github.com/legodude17/VanillaBackgroundsExpanded</downloadUrl>
       <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2775017012</steamWorkshopUrl>
     </li>
-    <li>
-			<packageId>DarthCY.LC.AnomalyLibrary</packageId>
-			<displayName>LC Anomaly Library</displayName>
-			<downloadUrl>https://github.com/DarthCY-K/LC-Anomaly-Library/releases/latest</downloadUrl>
+		<li>
+			<packageId>DarthCY.LC.AnomalyCore</packageId>
+			<displayName>LC Anomaly Core</displayName>
+			<downloadUrl>https://github.com/DarthCY-K/LC-Anomaly-Core/releases/latest</downloadUrl>
 		</li>
   </modDependencies>
   <loadAfter>
     <li>vanillaexpanded.backgrounds</li>
-    <li>DarthCY.LC.AnomalyLibrary</li>
+    <li>DarthCY.LC.AnomalyCore</li>
   </loadAfter>
 </ModMetaData>
